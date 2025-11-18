@@ -19,14 +19,19 @@ Sí, però no cal fer còpies completas dels 10 equips clients,només per als ar
 - Setmanal: Còpia Completa
 - Mensual: Còpia Completa
 
+  
 2- Documents de Projectes (300 GB)
 - Diària: Còpia Incremental
 - Setmanal: Còpia Diferencial
 - Mensual: Còpia Completa
+
+
 3-  Carpetes Personals de Usuaris (100 GB)
 - Diària: Còpia Incremental
 - Setmanal: Còpia Diferencial
 - Mensual: Còpia Completa
+
+  
 4- Equips Clients
 - Setmanal: Còpia Diferencial
 - Mensual: Còpia Completa
