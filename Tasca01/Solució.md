@@ -1,10 +1,15 @@
 T01: DRP: còpies de seguretat. Estudi cas client (treball cooperatiu)
 Fase 1: Treball individual:
+
 1.Què copiar? (Priorització): Quines són les dades més crítiques del servidor? Cal fer còpia dels 10 equips clients? Justifica-ho.
+
 Les dades de comptabilitat i clients (20 GB) són les més crítiques, per això s’han de fer còpies diàries, s’han de fer una còpia cada 4 hores.
+
 Els documents de projectes (300 GB) són importants, però no tan crítics com les dades de comptabilitat, per això es poden fer còpies setmanals o diàries
 Les carpetes personals dels usuaris (100 GB) poden tenir còpies setmanals o mensuals
+
 Els equips clients no són tan crítics com les dades del servidor però es important fer còpies setmanals o mensuals
+
 Sí, però no cal fer còpies completas dels 10 equips clients,només per als arxius importants que els usuaris puguin guardar. Les còpies no són tan freqüents com les del servidor.
 
 2.Periodicitat i Tipus de Còpia: Proposa un calendari bàsic per a la setmana (Diari/Setmanal/Mensual) i quin tipus de còpia aplicaràs (Completa, Diferencial, Incremental) per a les dades crítiques.
