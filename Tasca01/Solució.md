@@ -1,4 +1,5 @@
-T01: DRP: còpies de seguretat. Estudi cas client (treball cooperatiu)
+## T01: DRP: còpies de seguretat. Estudi cas client (treball cooperatiu)
+
 Fase 1: Treball individual 💾🔐: 
 
 1.Què copiar? (Priorització): Quines són les dades més crítiques del servidor? Cal fer còpia dels 10 equips clients? Justifica-ho.
@@ -62,3 +63,6 @@ REGLA 3-2-1:
 3. Una còpia fora de les instal·lacions:
 - Guardar la còpia més recent al NAS i al Cloud.
 - Còpies més antigues poden anar a cintes.
+
+
+
