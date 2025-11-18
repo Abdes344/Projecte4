@@ -1,18 +1,19 @@
 T01: DRP: còpies de seguretat. Estudi cas client (treball cooperatiu)
-Fase 1: Treball individual:
+Fase 1: Treball individual 💾🔐: 
 
 1.Què copiar? (Priorització): Quines són les dades més crítiques del servidor? Cal fer còpia dels 10 equips clients? Justifica-ho.
 
-Les dades de comptabilitat i clients (20 GB) són les més crítiques, per això s’han de fer còpies diàries, s’han de fer una còpia cada 4 hores.
+Les dades de comptabilitat i clients (20 GB) són les més crítiques, per això s’han de fer còpies diàries, s’han de fer una còpia cada 4 hores. 📊🕓
 
-Els documents de projectes (300 GB) són importants, però no tan crítics com les dades de comptabilitat, per això es poden fer còpies setmanals o diàries
-Les carpetes personals dels usuaris (100 GB) poden tenir còpies setmanals o mensuals
+Els documents de projectes (300 GB) són importants, però no tan crítics com les dades de comptabilitat, per això es poden fer còpies setmanals o diàries 👤🗂️
 
-Els equips clients no són tan crítics com les dades del servidor però es important fer còpies setmanals o mensuals
+Les carpetes personals dels usuaris (100 GB) poden tenir còpies setmanals o mensuals 📁📆
 
-Sí, però no cal fer còpies completas dels 10 equips clients,només per als arxius importants que els usuaris puguin guardar. Les còpies no són tan freqüents com les del servidor.
+Els equips clients no són tan crítics com les dades del servidor però es important fer còpies setmanals o mensuals 🖥️🔄 
 
-2.Periodicitat i Tipus de Còpia: Proposa un calendari bàsic per a la setmana (Diari/Setmanal/Mensual) i quin tipus de còpia aplicaràs (Completa, Diferencial, Incremental) per a les dades crítiques.
+Sí, però no cal fer còpies completas dels 10 equips clients,només per als arxius importants que els usuaris puguin guardar. Les còpies no són tan freqüents com les del servidor. ✔️📂
+
+2.Periodicitat i Tipus de Còpia: Proposa un calendari bàsic per a la setmana (Diari/Setmanal/Mensual) i quin tipus de còpia aplicaràs (Completa, Diferencial, Incremental) per a les dades crítiques. 🗓️📀 
 
 1- Dades de compatibilitat i clients (20 GB)
 - Diària: Còpia incremental
@@ -36,7 +37,7 @@ Sí, però no cal fer còpies completas dels 10 equips clients,només per als ar
 - Setmanal: Còpia Diferencial
 - Mensual: Còpia Completa
 
-3.Mitjans i Ubicació: Quin tipus de mitjà de còpia utilitzaries (Discs durs externs, NAS, Cloud, Cintes)? On s'hauria de guardar físicament la còpia més recent (Regla 3-2-1).
+3.Mitjans i Ubicació: Quin tipus de mitjà de còpia utilitzaries (Discs durs externs, NAS, Cloud, Cintes)? On s'hauria de guardar físicament la còpia més recent (Regla 3-2-1). ☁️💽📚
 
 1. Cloud (Nuvem):
 - Ideal per còpies fora de l'empresa
