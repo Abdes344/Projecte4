@@ -114,21 +114,21 @@ Un conjunt de productes que formen **la teva carpeta professional**, la millor p
 
 # TASQUES I PRODUCTES
 
-| Tasques                                                       | Productes                                                   |
-|---------------------------------------------------------------|-------------------------------------------------------------|
+| Tasques                                                  | Productes                                                   |
+|----------------------------------------------------------|-------------------------------------------------------------|
 | 📁 [T01](Tasca01)                                       | 📦 [P01](./productes/P01)                                   |
-| 📁 [T02](./tasques/Tasca02)                                       | 📦 [P02](./productes/P02)                                   |
-| 📁 [T03](./tasques/Tasca03)                                       | 📦 [P03](./productes/P03)                                   |
-| 📁 [T04](./tasques/Tasca04)                                       |                                                             |
-| 📁 [T05](./tasques/Tasca05)                                       |                                                             |
-| 📁 [T06](./tasques/Tasca06)                                       |                                                             |
-| 📁 [T07](./tasques/Tasca07)                                       |                                                             |
-| 📁 [T08](./tasques/Tasca08)                                       |                                                             |
-| 📁 [T09](./tasques/Tasca09)                                       |                                                             |
-| 📁 [T10](./tasques/Tasca10)                                       |                                                             |
-| 📁 [T11](./tasques/Tasca11)                                       |                                                             |
-| 📁 [T12](./tasques/Tasca12)                                       |                                                             |
-| 📁 [T13](./tasques/Tasca13)                                       |                                                             |
-| 📁 [T14](./tasques/Tasca14)                                       |                                                             |
-| 📁 [T15](./tasques/Tasca15)                                       |                                                             |
+| 📁 [T02](Tasca02)                                       | 📦 [P02](./productes/P02)                                   |
+| 📁 [T03](Tasca03)                                       | 📦 [P03](./productes/P03)                                   |
+| 📁 [T04](Tasca04)                                       |                                                             |
+| 📁 [T05](Tasca05)                                       |                                                             |
+| 📁 [T06](Tasca06)                                       |                                                             |
+| 📁 [T07](Tasca07)                                       |                                                             |
+| 📁 [T08](Tasca08)                                       |                                                             |
+| 📁 [T09](Tasca09)                                       |                                                             |
+| 📁 [T10](Tasca10)                                       |                                                             |
+| 📁 [T11](Tasca11)                                       |                                                             |
+| 📁 [T12](Tasca12)                                       |                                                             |
+| 📁 [T13](Tasca13)                                       |                                                             |
+| 📁 [T14](Tasca14)                                       |                                                             |
+| 📁 [T15](Tasca15)                                       |                                                             |
 
