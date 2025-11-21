@@ -111,3 +111,25 @@ En acabar el projecte, l’alumne lliurarà:
 Un conjunt de productes que formen **la teva carpeta professional**, la millor prova del teu progrés i del teu futur potencial en el món IT. 🚀💼✨
 
 ---
+
+# TASQUES I PRODUCTES
+
+| Tasques                                                       | Productes                                                   |
+|---------------------------------------------------------------|-------------------------------------------------------------|
+| 📁 [T00](./tasques/Tasca01)                                       | 📦 [P01](./productes/P01)                                   |
+| 📁 [T01](./tasques/Tasca02)                                       | 📦 [P02](./productes/P02)                                   |
+| 📁 [T02](./tasques/Tasca03)                                       | 📦 [P03](./productes/P03)                                   |
+| 📁 [T03](./tasques/Tasca04)                                       |                                                             |
+| 📁 [T04](./tasques/Tasca05)                                       |                                                             |
+| 📁 [T05](./tasques/Tasca06)                                       |                                                             |
+| 📁 [T06](./tasques/Tasca07)                                       |                                                             |
+| 📁 [T07](./tasques/Tasca08)                                       |                                                             |
+| 📁 [T08](./tasques/Tasca09)                                       |                                                             |
+| 📁 [T09](./tasques/Tasca10)                                       |                                                             |
+| 📁 [T10](./tasques/T10)                                       |                                                             |
+| 📁 [T11](./tasques/T11)                                       |                                                             |
+| 📁 [T12](./tasques/T12)                                       |                                                             |
+| 📁 [T13](./tasques/T13)                                       |                                                             |
+| 📁 [T14](./tasques/T14)                                       |                                                             |
+| 📁 [T15](./tasques/T15)                                       |                                                             |
+
