@@ -116,7 +116,7 @@ Un conjunt de productes que formen **la teva carpeta professional**, la millor p
 
 | Tasques                                                       | Productes                                                   |
 |---------------------------------------------------------------|-------------------------------------------------------------|
-| 📁 [T01](./Projecte4/Tasca01)                                       | 📦 [P01](./productes/P01)                                   |
+| 📁 [T01](Projecte4/Tasca01)                                       | 📦 [P01](./productes/P01)                                   |
 | 📁 [T02](./tasques/Tasca02)                                       | 📦 [P02](./productes/P02)                                   |
 | 📁 [T03](./tasques/Tasca03)                                       | 📦 [P03](./productes/P03)                                   |
 | 📁 [T04](./tasques/Tasca04)                                       |                                                             |
