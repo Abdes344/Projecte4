@@ -1,6 +1,6 @@
 # **T05: Accés Remot. Connexió via SSH**
 
-![ServeiSSH][image1]
+![imatge](/Tasca05/ServeiSSH/1.png) 
 
 Primer el que farem serà deixar el primer adaptador en NAT i el segon el ficarem en adaptador només amfitrió 
 
