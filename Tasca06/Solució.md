@@ -44,3 +44,46 @@ Ara ens connectarem el escriptori remot de Windows.
 ![imatge](/Tasca06/IMG/9.png)
 
 Un cop ens connecta ens demanara usuari i contrasenya de Windows les fiquem i ja ens connectaria correctament.
+
+---
+
+![imatge](/Tasca06/IMG/10.png)
+
+Aquí ja començarem a veure la pantalla de Windows el únic que farem serà donar-li a la primera opció que no es veu bé
+
+---
+
+![imatge](/Tasca06/IMG/11.png)
+
+Després de donar-li aquí ja estaríem veient la pantalla de Windows 
+
+---
+
+![imatge](/Tasca06/IMG/12.png)
+
+Ara entrem a Zorin i ens anirem a configuració i dins de la configuració triem el apartat de “sharing” i el tindrem que activar després entrarem a “remote desktop” i activarem les dues opcions que tenim 
+
+---
+
+![imatge](/Tasca06/IMG/13.png)
+
+Aquí veiem que l'opció de “remote desktop” la tenim activada 
+
+---
+
+![imatge](/Tasca06/IMG/14.png)
+
+Ara anirem a Windows i obrirem l'aplicació de “conexión a escritorio remoto” i on ens demana l'equipo ficarem el nom de zorin i on ens demana l’usuari ficarem el nostre usuari de zorin 
+
+---
+
+![imatge](/Tasca06/IMG/15.png)
+
+Ens demanara una contrasenya que la tindrem que treure del zorin
+
+---
+
+![imatge](/Tasca06/IMG/16.png)
+
+I ja estaríem connectats de Windows a zorin i podem veure la pantalla de zorin correctament 
+
