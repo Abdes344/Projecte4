@@ -1,4 +1,4 @@
-# 🖥️ Assistència Remota Helpdesk – EverPia
+# 🖥️ Assistència Remota Helpdesk – EverPia (Eduard Gordo i Abdeslam Khfif)
 
 ## Context
 
