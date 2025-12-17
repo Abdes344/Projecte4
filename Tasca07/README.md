@@ -13,7 +13,7 @@ Disposar d’una eina d’assistència remota **sota demanda**, ràpida, fiable 
 Les quatre solucions seleccionades són:
 
 * **TeamViewer**
-* **AnyDesk**
+* **TeamViewer**
 * **Google Chrome Remote Desktop**
 * **RustDesk** (alternativa open‑source)
 
@@ -24,7 +24,7 @@ Les quatre solucions seleccionades són:
 | Eina                      | Facilitat d’ús (Client)                                           | Sistemes Operatius    | Model de Preu (Ús Comercial)                                |
 | ------------------------- | ----------------------------------------------------------------- | --------------------- | ----------------------------------------------------------- |
 | **TeamViewer**            | ✔️ Mòdul QuickSupport sense instal·lació. ID i contrasenya clars. | Windows, macOS, Linux | ❌ No gratuït en ús comercial. ~50–60€/mes per tècnic.       |
-| **AnyDesk**               | ✔️ Executable portable molt lleuger. ID visible immediatament.    | Windows, macOS, Linux | ❌ Llicència comercial requerida. ~30–40€/mes.               |
+| **TeamViewer**            | ✔️ Executable portable molt lleuger. ID visible immediatament.    | Windows, macOS, Linux | ❌ Llicència comercial requerida. ~30–40€/mes.               |
 | **Chrome Remote Desktop** | ⚠️ Requereix compte Google i configuració prèvia. Poc intuïtiu.   | Windows, macOS, Linux | ✔️ Gratuït, però limitat i poc orientat a suport immediat.  |
 | **RustDesk**              | ⚠️ Interfície menys coneguda. Portable disponible.                | Windows, macOS, Linux | ✔️ Gratuït (open‑source). Cost 0€, però més gestió interna. |
 
@@ -32,17 +32,17 @@ Les quatre solucions seleccionades són:
 
 ## ✅ Recomanació Oficial
 
-### 🏆 **Eina Recomanada: AnyDesk**
+### 🏆 **Eina Recomanada: TeamViewer**
 
 **Justificació:**
 
-* ⚡ Connexió extremadament ràpida fins i tot en xarxes restrictives
-* 👩‍💻 Molt fàcil per a clients no tècnics (només obrir l’arxiu)
-* 🌍 Compatibilitat completa amb entorns mixtos (Windows / macOS / Linux)
-* 💰 Cost més equilibrat que TeamViewer
-* 🔐 Bones opcions de seguretat i control de permisos
+* ⚡ Connexió molt estable i fiable, fins i tot en xarxes restrictives
+* 👩‍💻 Extremadament fàcil per a clients no tècnics gràcies al mòdul **QuickSupport**
+* 🌍 Compatibilitat completa amb entorns mixtos (Windows, macOS i Linux)
+* 🔐 Alt nivell de seguretat (xifratge d’extrem a extrem i control de permisos)
+* 🏢 Solució àmpliament utilitzada i reconeguda en entorns professionals
 
-👉 **AnyDesk ofereix el millor equilibri entre facilitat, funcionalitat i cost per a EverPia.**
+👉 **TeamViewer és l’opció més robusta i professional per a l’assistència remota immediata d’EverPia.**
 
 ---
 
@@ -54,8 +54,8 @@ Les quatre solucions seleccionades són:
 
 ### 1️⃣ Instal·lació de la Versió Tècnica
 
-1. Accedir a: [https://anydesk.com](https://anydesk.com)
-2. Descarregar **AnyDesk per a professionals**
+1. Accedir a: [https://www.teamviewer.com](https://www.teamviewer.com)
+2. Descarregar **TeamViewer per a professionals**
 3. Instal·lar l’aplicació
 4. Iniciar sessió amb el compte corporatiu d’EverPia
 
@@ -65,7 +65,7 @@ Les quatre solucions seleccionades són:
 
 ### 2️⃣ Iniciar una Sessió de Suport
 
-1. Obrir AnyDesk
+1. Obrir TeamViewer
 2. Introduir l’**ID del client** al camp "Remote Desk"
 3. Fer clic a **Connectar**
 4. Esperar que el client accepti la connexió
@@ -102,7 +102,7 @@ Les quatre solucions seleccionades són:
 ### 1️⃣ Descarregar l’Eina de Suport
 
 1. Obrir aquest enllaç:
-   👉 [https://anydesk.com](https://anydesk.com)
+   👉 [https://www.teamviewer.com](https://www.teamviewer.com)
 2. Fer clic a **Download Now**
 3. Obrir l’arxiu descarregat (NO cal instal·lar res)
 
@@ -112,7 +112,7 @@ Les quatre solucions seleccionades són:
 
 ### 2️⃣ Obtenir l’ID
 
-1. En obrir AnyDesk, veurà un número gran (el seu **ID**)
+1. En obrir TeamViewer, veurà un número gran (el seu **ID**)
 2. Comunicar aquest número al tècnic d’EverPia (telèfon o correu)
 
 *(📸 Captura amb l’ID encerclat)*
@@ -132,13 +132,13 @@ Les quatre solucions seleccionades són:
 ### 4️⃣ Finalitzar la Sessió
 
 * Quan el problema estigui resolt, el tècnic tancarà la connexió
-* També pot tancar AnyDesk en qualsevol moment ❌
+* També pot tancar TeamViewer en qualsevol moment ❌
 
 ---
 
 ## 🎉 Conclusió
 
-Amb **AnyDesk**, EverPia disposa d’una eina:
+Amb **TeamViewer**, EverPia disposa d’una eina:
 
 * 🚀 Ràpida
 * 🔐 Segura
@@ -146,4 +146,3 @@ Amb **AnyDesk**, EverPia disposa d’una eina:
 * 🌐 Preparada per a entorns mixtos
 
 Aquesta documentació garanteix una experiència de suport eficient i professional des del primer dia.
-
