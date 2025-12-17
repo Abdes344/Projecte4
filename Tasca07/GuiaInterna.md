@@ -1,4 +1,6 @@
-# T07: Accés remot. Serveis d’assistència remota (tasca en parelles)
+# T07: Accés remot. Serveis d’assistència remota
+## Projecte 4: EverPia III
+### Abdeslam Khfif | SMX 2A
 
 
 ![imatge](/Tasca07/IMG/1.png) 
